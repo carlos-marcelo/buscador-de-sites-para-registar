@@ -1,1 +1,1 @@
-este arquivo é para executar em desktop
+Este arquivo é para executar em desktop
